@@ -36,7 +36,8 @@ This architecture is designed to automatically fetch stock-related data daily, a
 
 ## 🗺️ Architecture Diagram
 
-![Stock-data-](Stock Architecture.jpeg)
+![Stock Architecture](./Stock%20Architecture.jpeg)
+
 
 ---
 ## 📷 Dashboard Preview
